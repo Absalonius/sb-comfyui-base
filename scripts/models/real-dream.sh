@@ -1,6 +1,6 @@
 #!/bin/bash
 # Navigate into the repository folder
-cd /workflow/ComfyUI
+cd /workspace/ComfyUI
 cd models
 
 #download real-dream model
