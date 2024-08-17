@@ -1,6 +1,6 @@
 #!/bin/bash
 # Navigate into the custom_nodes folder
-cd /workflow/ComfyUI
+cd /workspace/ComfyUI
 cd models
 # navigate into the controlnet folder
 cd controlnet
